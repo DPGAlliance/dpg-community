@@ -1,3 +1,9 @@
+> [!WARNING]
+>
+> This repository is now archived in favour of the new community processes, which are available privately to DPG product owners (you can become one by [submitting your digital solution](https://digitalpublicgoods.net/submission-guide) for DPG assessment). You can still use the public [discussions forum](https://github.com/DPGAlliance/dpg-community/discussions), and we encourage DPG supporters to join the new [DPG Matrix pubic chat room](https://matrix.to/#/#dpg-supporters:matrix.org). We will no longer attend to issues or pull request contributions from this repository. You can learn more about DPGs [here](https://digitalpublicgoods.net/digital-public-goods) or explore the [DPG Wiki](https://github.com/DPGAlliance/dpg-resources/wiki). Thank you!
+
+---
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/DPGAlliance/dpg-community/main/assets/dpg-badge.png" width="70" alt="Digital Public Good"><br>
 </p>
